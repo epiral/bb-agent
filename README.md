@@ -4,9 +4,9 @@
 
 **AI Agent 平权。任何模型，任何语言，任何网站。**
 
-bb-agent is an AI agent built on [bb-browser](https://github.com/epiral/bb-browser) site adapters. It doesn't need GPT-5 or Opus. It doesn't need frontier models. **A 7B open-source model running on your laptop is enough.**
+bb-agent is an AI agent built on [bb-browser](https://github.com/epiral/bb-browser) site adapters. It doesn't need GPT-5 or Opus. **Open-source models work great.**
 
-bb-agent 基于 [bb-browser](https://github.com/epiral/bb-browser) 的 site adapter 构建。不需要 GPT-5，不需要 Opus，不需要前沿模型。**一个 7B 开源模型，跑在你的笔记本上，就够了。**
+bb-agent 基于 [bb-browser](https://github.com/epiral/bb-browser) 的 site adapter 构建。不需要 GPT-5，不需要 Opus。**开源模型就能很好地工作。**
 
 ## The problem / 问题
 
@@ -99,9 +99,9 @@ We believe the ability to interact with the real web should not be gated behind 
 
 我们相信，跟真实互联网交互的能力，不应该被昂贵的模型垄断。
 
-A student running Qwen-7B on a laptop should be able to build the same cross-platform agent as someone paying $200/month for frontier APIs. The adapters are open source. The agent is open source. The models can be open source. **No gatekeepers.**
+A student running open-source models should be able to build the same cross-platform agent as someone paying $200/month for frontier APIs. The adapters are open source. The agent is open source. The models can be open source. **No gatekeepers.**
 
-一个学生用笔记本跑 Qwen-7B，应该能构建出跟花 $200/月用前沿 API 一样的跨平台 Agent。adapter 开源，Agent 开源，模型也可以开源。**没有看门人。**
+一个用开源模型的学生，应该能构建出跟花 $200/月用前沿 API 一样的跨平台 Agent。adapter 开源，Agent 开源，模型也可以开源。**没有看门人。**
 
 ## Status / 状态
 
